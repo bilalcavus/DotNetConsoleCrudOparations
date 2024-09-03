@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bilal\\source\\repos\\DotNetDapper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D78FC6E-9DBF-4EDC-92C1-EB0DB87BC8CD}|DotNetDapper\\DotNetDapper.csproj|c:\\users\\bilal\\source\\repos\\dotnetdapper\\dotnetdapper\\studentcoursesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D78FC6E-9DBF-4EDC-92C1-EB0DB87BC8CD}|DotNetDapper\\DotNetDapper.csproj|solutionrelative:dotnetdapper\\studentcoursesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D78FC6E-9DBF-4EDC-92C1-EB0DB87BC8CD}|DotNetDapper\\DotNetDapper.csproj|c:\\users\\bilal\\source\\repos\\dotnetdapper\\dotnetdapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D78FC6E-9DBF-4EDC-92C1-EB0DB87BC8CD}|DotNetDapper\\DotNetDapper.csproj|solutionrelative:dotnetdapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D78FC6E-9DBF-4EDC-92C1-EB0DB87BC8CD}|DotNetDapper\\DotNetDapper.csproj|c:\\users\\bilal\\source\\repos\\dotnetdapper\\dotnetdapper\\studentcrudoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D78FC6E-9DBF-4EDC-92C1-EB0DB87BC8CD}|DotNetDapper\\DotNetDapper.csproj|solutionrelative:dotnetdapper\\studentcrudoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D78FC6E-9DBF-4EDC-92C1-EB0DB87BC8CD}|DotNetDapper\\DotNetDapper.csproj|c:\\users\\bilal\\source\\repos\\dotnetdapper\\dotnetdapper\\teachercrudoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D78FC6E-9DBF-4EDC-92C1-EB0DB87BC8CD}|DotNetDapper\\DotNetDapper.csproj|solutionrelative:dotnetdapper\\teachercrudoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D78FC6E-9DBF-4EDC-92C1-EB0DB87BC8CD}|DotNetDapper\\DotNetDapper.csproj|c:\\users\\bilal\\source\\repos\\dotnetdapper\\dotnetdapper\\courserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D78FC6E-9DBF-4EDC-92C1-EB0DB87BC8CD}|DotNetDapper\\DotNetDapper.csproj|solutionrelative:dotnetdapper\\courserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D78FC6E-9DBF-4EDC-92C1-EB0DB87BC8CD}|DotNetDapper\\DotNetDapper.csproj|c:\\users\\bilal\\source\\repos\\dotnetdapper\\dotnetdapper\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D78FC6E-9DBF-4EDC-92C1-EB0DB87BC8CD}|DotNetDapper\\DotNetDapper.csproj|solutionrelative:dotnetdapper\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D78FC6E-9DBF-4EDC-92C1-EB0DB87BC8CD}|DotNetDapper\\DotNetDapper.csproj|c:\\users\\bilal\\source\\repos\\dotnetdapper\\dotnetdapper\\teacherrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D78FC6E-9DBF-4EDC-92C1-EB0DB87BC8CD}|DotNetDapper\\DotNetDapper.csproj|solutionrelative:dotnetdapper\\teacherrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D78FC6E-9DBF-4EDC-92C1-EB0DB87BC8CD}|DotNetDapper\\DotNetDapper.csproj|c:\\users\\bilal\\source\\repos\\dotnetdapper\\dotnetdapper\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D78FC6E-9DBF-4EDC-92C1-EB0DB87BC8CD}|DotNetDapper\\DotNetDapper.csproj|solutionrelative:dotnetdapper\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentCoursesRepo.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\DotNetDapper\\DotNetDapper\\StudentCoursesRepo.cs",
+              "RelativeDocumentMoniker": "DotNetDapper\\StudentCoursesRepo.cs",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\DotNetDapper\\DotNetDapper\\StudentCoursesRepo.cs",
+              "RelativeToolTip": "DotNetDapper\\StudentCoursesRepo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:52:06.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentCrudOperations.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\DotNetDapper\\DotNetDapper\\StudentCrudOperations.cs",
+              "RelativeDocumentMoniker": "DotNetDapper\\StudentCrudOperations.cs",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\DotNetDapper\\DotNetDapper\\StudentCrudOperations.cs",
+              "RelativeToolTip": "DotNetDapper\\StudentCrudOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T13:12:42.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\DotNetDapper\\DotNetDapper\\Program.cs",
+              "RelativeDocumentMoniker": "DotNetDapper\\Program.cs",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\DotNetDapper\\DotNetDapper\\Program.cs",
+              "RelativeToolTip": "DotNetDapper\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:52:41.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeacherCrudOperations.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\DotNetDapper\\DotNetDapper\\TeacherCrudOperations.cs",
+              "RelativeDocumentMoniker": "DotNetDapper\\TeacherCrudOperations.cs",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\DotNetDapper\\DotNetDapper\\TeacherCrudOperations.cs",
+              "RelativeToolTip": "DotNetDapper\\TeacherCrudOperations.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:48:45.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseRepo.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\DotNetDapper\\DotNetDapper\\CourseRepo.cs",
+              "RelativeDocumentMoniker": "DotNetDapper\\CourseRepo.cs",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\DotNetDapper\\DotNetDapper\\CourseRepo.cs",
+              "RelativeToolTip": "DotNetDapper\\CourseRepo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:43:23.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\DotNetDapper\\DotNetDapper\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "DotNetDapper\\StudentRepo.cs",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\DotNetDapper\\DotNetDapper\\StudentRepo.cs",
+              "RelativeToolTip": "DotNetDapper\\StudentRepo.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowD0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:41:54.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeacherRepo.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\DotNetDapper\\DotNetDapper\\TeacherRepo.cs",
+              "RelativeDocumentMoniker": "DotNetDapper\\TeacherRepo.cs",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\DotNetDapper\\DotNetDapper\\TeacherRepo.cs",
+              "RelativeToolTip": "DotNetDapper\\TeacherRepo.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:10:20.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\DotNetDapper\\DotNetDapper\\Models.cs",
+              "RelativeDocumentMoniker": "DotNetDapper\\Models.cs",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\DotNetDapper\\DotNetDapper\\Models.cs",
+              "RelativeToolTip": "DotNetDapper\\Models.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:21:12.14Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
